@@ -1,5 +1,4 @@
 Git is a distributed version control system.
-Git is free sofware distributed under the GPL.
+Git is a free sofware distributed under the GPL.
 Git has mutable index called stage.
 Creating a new branch is quick and simple.
-try add merge.
